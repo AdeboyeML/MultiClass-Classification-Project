@@ -1,6 +1,6 @@
 # MultiClass-Classification-Project
 
-This project was geared towards performing a multiclass classification task on an imbalanced  multiclass data with large amount of columns thats also needs to be reduce.
+This assignment was geared towards performing a multiclass classification task on an imbalanced  multiclass data with large amount of columns thats also needs to be reduce.
 
 ### Python libraries such as Seaborn, Matplotlib, Pandas, Numpy and Sci-kit learn were fully utilized for this project.
 
